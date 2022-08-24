@@ -1,4 +1,4 @@
-# GO_Music
+# Gigi_Music
 The GO Music application is used as an alternative music player app for the Android platform,
 during this period, there are still some android built-in player apps that mix the music files with other unwanted audio files such as recordings, ringtones, etc...
 To that end, I created this app - for starters, it selects the contents of the device and concentrates the desired music files.
